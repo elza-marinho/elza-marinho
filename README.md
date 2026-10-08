@@ -9,11 +9,17 @@
 
 ## Sobre mim
 
-Estou construindo minha carreira em Análise de Dados, transformando dados brutos em informação útil para decisões. Venho de testes de software (estágio na DATAPREV) e de anos como professora de inglês, o que me dá atenção à qualidade dos dados e clareza para comunicar resultados.
+Atualmente estou me especializando em Análise de Dados pelo programa SCTECH do SENAI e desenvolvendo projetos práticos envolvendo:
 
-Atualmente curso o programa de Análise de Dados do SCTECH (Python, SQL, Pandas, Excel, estatística e EDA) e busco minha primeira oportunidade como **Analista de Dados Júnior**.
+- 🐍 Python
+- 🗃️ SQL e PostgreSQL
+- 🐼 Pandas
+- 📊 Análise Exploratória de Dados
+- 🔄 ETL
+- 📈 Visualização de dados
+  
+Venho de testes de software (estágio na DATAPREV) e de anos como professora de inglês, o que me dá atenção à qualidade dos dados e clareza para comunicar resultados.
 
----
 
 ## Habilidades
 
